@@ -1,2 +1,2 @@
 # Hello-World
-Hello-World testing
+# Testing MNIST in Keras
